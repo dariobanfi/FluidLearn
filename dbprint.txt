@@ -1,0 +1,41 @@
+utente
+
+1,  Dario,  asd
+2,  Leo,  asd
+3,  Eddy,  asd
+4,  Tatino,  asd
+
+Corso
+
+1,  Tecniche di salto con la corda
+2,  Architettura di corde I
+3,  Interazione Uomo Corde
+4,  Architettura di corde II
+5,  Storia ed Evoluzione delle corde
+
+Uda: 
+
+1,  Salto con un piede,  1
+2,  Salto con due piedi,  1
+3,  Salto multiplo carpiato,  1
+
+Nodi:
+
+1,  Discesa,  La discesa da un salto spesso comporta rischi,  1,  
+2,  Rimbalzo,  La salita da un salto spesso comporta rischi,  1,  
+3,  Salita,  La salita da un salto spesso comporta rischi, potresti volare sulla luna!,  1, 
+
+Ruoli
+
+	/*DBCreator.creaRuoloTabella();
+	DBCreator.creaRuolo(4, 1, "docente,moderatore");
+	DBCreator.creaRuolo(4, 2, "docente,moderatore");
+	DBCreator.creaRuolo(4, 3, "docente,moderatore");
+	DBCreator.creaRuolo(4, 4, "docente,moderatore");
+	DBCreator.creaRuolo(4, 5, "docente,moderatore");
+	
+	DBCreator.creaRuolo(2, 1, "studente");
+	DBCreator.creaRuolo(2, 2, "studente");
+	DBCreator.creaRuolo(2, 3, "studente");
+	DBCreator.creaRuolo(2, 4, "studente");
+	DBCreator.creaRuolo(2, 5, "studente");*/
